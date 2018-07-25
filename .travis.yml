@@ -1,1 +1,3 @@
 language: generic
+notifications:
+  email: false
